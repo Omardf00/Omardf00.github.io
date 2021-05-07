@@ -78,7 +78,7 @@ En el apartado "Dashboard" podremos hacer un seguimiento para el control de los 
 
 En "My Mojo", encontraremos una herramienta interactiva que nos evalúa y nos puntúa según resolvemos tickets y los clientes proporcionan algún tipo de feedback. En esencia se trata de una estadística de satisfacción de nuestros clientes, la cual podemos deshabilitar si así lo preferimos.
 
-![image-20210507113843804](C:\Users\parae\Desktop\mojo_helpdesk\uso_4.PNG)
+![image-20210507113843804](uso_4.PNG)
 
 Podremos por otro lado, crear una guía o guías con soluciones a problemas comunes y facilitarles el acceso a los agentes para poder agilizar el proceso de resolución de tickets.
 
@@ -167,13 +167,13 @@ Sin embargo, tal y como indicamos antes, podemos poner a disposición de los usu
 
 Aquí podremos acceder a esta información:
 
-![6](C:\Users\parae\Desktop\mojo_helpdesk\uso_20.PNG)
+![6](uso_20.PNG)
 
 ![image-20210507153954200](uso_21.PNG)
 
 Se nos abrirá la siguiente página:
 
-![image-20210507154400790](C:\Users\parae\Desktop\mojo_helpdesk\uso_22.PNG)
+![image-20210507154400790](uso_22.PNG)
 
 Como ya explicamos antes, aquí podríamos buscar información de nuestro problema antes de crear un nuevo ticket o también, cumplido con nuestra función de administradores, podríamos documentar cualquier problema que haya ocurrido en el pasado para que aparezca en futuras búsquedas, ayudando tanto a agentes como a clientes.
 
@@ -205,7 +205,7 @@ Podemos ver los tickets de tres formas:
 
 - En "Open Tickets" tenemos todos los tickets que siguen abiertos.
 
-![image-20210507164403936](C:\Users\parae\Desktop\mojo_helpdesk\uso_28.PNG)
+![image-20210507164403936](uso_28.PNG)
 
 Para asignar a alguien los tickets o asignarnos alguno a nosotros mismos, debemos marcar el usuario asignado en el apartado señalado en la siguiente imagen:
 
@@ -213,7 +213,7 @@ Para asignar a alguien los tickets o asignarnos alguno a nosotros mismos, debemo
 
 Podremos ver que se nos despliegan tantas opciones como usuarios tengamos disponibles para la resolución de problemas.
 
-![image-20210507164821562](C:\Users\parae\Desktop\mojo_helpdesk\uso_30.PNG)
+![image-20210507164821562](uso_30.PNG)
 
 Una vez nos hayamos asignado el ticket, podremos responderlo. Pincharemos en él y abriremos el asistente de respuesta ante la necesidad que propone el ticket.
 
