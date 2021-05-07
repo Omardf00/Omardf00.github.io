@@ -260,4 +260,5 @@ Me he guiado completamente del asistente que proporciona el fabricante en la web
 
 ## Créditos
 
-- Omar Domínguez Fuentes.
+- [Omar Domínguez Fuentes.](https://github.com/Omardf00)
+
